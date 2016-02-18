@@ -1,0 +1,4 @@
+EnableVPG=false
+FortranIncludePaths=/physics\n
+FortranModulePaths=/physics\n
+eclipse.preferences.version=1
